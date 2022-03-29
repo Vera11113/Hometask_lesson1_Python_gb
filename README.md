@@ -1,1 +1,1 @@
-# Hometask_lesson1_Python_gb
+# Hometask_lesson_Python_gb
